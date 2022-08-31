@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.4ae0df44.css",
+    "main.js": "/memory-card-game/static/js/main.5b6aefca.js",
+    "static/media/background.jpg": "/memory-card-game/static/media/background.cb503104602d2f80819e.jpg",
+    "static/media/panda.jpg": "/memory-card-game/static/media/panda.1feffd217f2541712617.jpg",
+    "static/media/turtle.jpg": "/memory-card-game/static/media/turtle.d834643f9a19f1442168.jpg",
+    "static/media/tiger.jpg": "/memory-card-game/static/media/tiger.365be523e3d1c75bbe7f.jpg",
+    "static/media/racoon.jpg": "/memory-card-game/static/media/racoon.f1276790bb24ca75ec6b.jpg",
+    "static/media/koala.jpg": "/memory-card-game/static/media/koala.665d38d90dd9eb113d9a.jpg",
+    "static/media/penguin.jpg": "/memory-card-game/static/media/penguin.6f213bcdaae34d951bb6.jpg",
+    "static/media/horse.jpg": "/memory-card-game/static/media/horse.c0e269e56c561ea43595.jpg",
+    "static/media/cow.jpg": "/memory-card-game/static/media/cow.8665d5738a5aabdc9e69.jpg",
+    "static/media/chipmunk.jpg": "/memory-card-game/static/media/chipmunk.9617825354f00c766d14.jpg",
+    "static/media/kangaroo.jpg": "/memory-card-game/static/media/kangaroo.6192536b88afe046848d.jpg",
+    "static/media/fox.jpg": "/memory-card-game/static/media/fox.f27f8c731d79e9828c1a.jpg",
+    "static/media/cat.jpg": "/memory-card-game/static/media/cat.33d574f98a6711daa9f5.jpg",
+    "static/media/swan.jpg": "/memory-card-game/static/media/swan.3270c0b75f2be0a3fa34.jpg",
+    "static/media/rabbit.jpg": "/memory-card-game/static/media/rabbit.4777a8f8c187c4a061db.jpg",
+    "static/media/sheep.jpg": "/memory-card-game/static/media/sheep.34a383d4565869406a6f.jpg",
+    "static/media/chicken.jpg": "/memory-card-game/static/media/chicken.22705077d0ab8ac13eb2.jpg",
+    "static/media/camel.jpg": "/memory-card-game/static/media/camel.d55233679e7288333888.jpg",
+    "static/media/frog.jpg": "/memory-card-game/static/media/frog.3ae48dbbfda109e8428c.jpg",
+    "index.html": "/memory-card-game/index.html",
+    "main.4ae0df44.css.map": "/memory-card-game/static/css/main.4ae0df44.css.map",
+    "main.5b6aefca.js.map": "/memory-card-game/static/js/main.5b6aefca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ae0df44.css",
+    "static/js/main.5b6aefca.js"
+  ]
+}
