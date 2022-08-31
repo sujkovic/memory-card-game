@@ -1,14 +1,11 @@
-import React from 'react'
-import { useState } from 'react';
+import React from "react";
 
-const Animal = props => {
-    const [name, setName] = useState('');
-    let isSeen = false;
-    setName(props.name);
-
+const Animal = ({ animal, toggleIsClicked }) => {
   return (
-    <div onClick={isSeen = false}>{name}</div>
-  )
-}
+    <div className="animal" onClick={() => toggleIsClicked(animal)}>
+      <img src={animal.pic} alt={animal.name}></img>
+    </div>
+  );
+};
 
-export default Animal
+export default Animal;

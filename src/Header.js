@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Header = (props) => {
   return (
-    <header>Memory Card Game</header>
-  )
-}
+    <header>
+      <div className="headerTitle">Memory Game</div>
+    </header>
+  );
+};
 
-export default Header
+export default Header;
